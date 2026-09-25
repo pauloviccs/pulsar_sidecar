@@ -1,7 +1,7 @@
-# Pulsar visual rework
-
-- [x] Build the refractive glass design system with dark and light themes
-- [x] Rebuild the immersive dashboard, navigation, community panels, and persistent player
-- [x] Add interactive library, favorites, history, profile, and settings views
-- [x] Add key overlays for queue, chat, now playing, import, playlist creation, and device connect
-- [x] Verify desktop and mobile layouts and clear all preview errors
+# Pulsar roadmap
+- [x] Rework visual Liquid Glass
+- [x] Tela Reproduzindo Agora (capa/vídeo) e painel Amigos (Amigos/Pendentes/Adicionar)
+- [x] Avatar do perfil sobre o banner
+- [ ] Links públicos de playlists — bloqueado: conectar Supabase do usuário
+- [ ] Playlists colaborativas em tempo real — bloqueado: conectar Supabase
+- [ ] Recomendações por clima/atividade com IA — bloqueado: conectar Supabase (histórico)
